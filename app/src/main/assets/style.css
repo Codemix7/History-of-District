@@ -1,0 +1,21 @@
+img{
+	max-width:100%;
+}
+
+b{
+	color:#510169;
+	margin-top:10px;
+}
+
+h1{  text-align:center;
+    font-size: 22px;
+    color: #a8000e !important;
+}
+
+body{
+	border-top:1px solid #0902c9;
+	padding-left:8px ;
+	padding-right:8px;
+	font-size:16px !important;
+	text-align:justify;
+}

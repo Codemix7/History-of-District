@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:theme="@style/ThemeOverlay.AppCompat.Dark" android:gravity="fill_horizontal" android:orientation="horizontal" android:background="@drawable/moralback" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="match_parent" android:layout_height="160dp">
+    <ImageView android:id="@+id/imageView" android:paddingTop="8dp" android:layout_width="@dimen/_90sdp" android:layout_height="@dimen/_80sdp" android:layout_marginTop="@dimen/_20sdp" app:srcCompat="@drawable/logo"/>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_15sdp">
+        <TextView android:textAppearance="@style/TextAppearance.AppCompat.Body1" android:textSize="@dimen/_16sdp" android:textStyle="bold" android:textColor="#9c27b0" android:gravity="center" android:paddingTop="0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/app_name"/>
+        <TextView android:textSize="@dimen/_15sdp" android:textStyle="bold" android:textColor="#3f51b5" android:gravity="center" android:id="@+id/textView" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="An Unique App of Minilab"/>
+    </LinearLayout>
+</LinearLayout>

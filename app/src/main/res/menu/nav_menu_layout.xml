@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homemenuid"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/facebook"
+            android:title="Follow us in facebook" />
+        <item
+            android:id="@+id/rateid"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="Rate App" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="EXIT" />
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/moreappsmend"
+                android:icon="@drawable/playstore"
+                android:title="More Apps" />
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+    <item android:title="প্রয়োজনীয় এ্যাপস">
+        <menu>
+            <item
+                android:id="@+id/englishlitera"
+                android:icon="@drawable/ic_get_app_black_24dp"
+                android:title="BCS English Literature" />
+            <item
+                android:id="@+id/gk"
+                android:icon="@drawable/ic_get_app_black_24dp"
+                android:title="সাধারন জ্ঞান বিশ্ব ও বাংলাদেশ" />
+            <item
+                android:id="@+id/EnglishSikun"
+                android:icon="@drawable/ic_get_app_black_24dp"
+                android:title="30 দিনে ইংলিশ শিখুন" />
+            <item
+                android:id="@+id/math"
+                android:icon="@drawable/ic_get_app_black_24dp"
+                android:title="বিসিএস ও ব্যাংক গণিত" />
+        </menu>
+    </item>
+</menu>

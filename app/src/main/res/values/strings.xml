@@ -1,0 +1,183 @@
+<resources>
+    <string name="about">Powered By TRM LAB\n\n Copyright ©2020\n\n App Name:\n ৬৪ জেলার ইতিহাস ও মানচিত্র \n\n All Rights Reserved\n\n If you have any complains regarding the content of this app; kindly email me. I must solve it instantly.\n\n Any suggestions would be highly appreciated about this app.\n\n My email: trmlab52@gmail.com \n\nThanks all</string>
+
+    <string name="app_name">৬৪ জেলার ইতিহাস ও মানচিত্র</string>
+
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="banner_ads">529157634377659_529157884377634</string>
+
+    <string name="bibid">অন্যান্য তথ্য</string>
+
+    <string name="d1">ঢাকা বিভাগ</string>
+
+    <string name="d2">খুলনা বিভাগ</string>
+
+    <string name="d3">চট্রগ্রাম বিভাগ</string>
+
+    <string name="d4">বরিশাল বিভাগ</string>
+
+    <string name="d5">রংপুর বিভাগ</string>
+
+    <string name="d6">রাজশাহী বিভাগ</string>
+
+    <string name="d7">সিলেট বিভাগ</string>
+
+    <string name="d8">ময়মনসিংহ বিভাগ</string>
+    <string name="nav_close">close</string>
+
+    <string name="nav_open">open</string>
+    <string name="play">পোস্ট কোড</string>
+
+    <string name="privacy_policy">https://docs.google.com/document/d/e/2PACX-1vTZlY_swKMvZ6zUGIsG0cZD6DxgyWSyjJBS3dOH9MvY9QA4p5-o-VphyMIHRBKno-BJXNiqxoudldrT/pub</string>
+
+    <string name="rectangle_ads">529157634377659_529158891044200</string>
+
+    <string name="search_menu_title">Search</string>
+
+    <string name="share">৬৪ জেলার ইতিহাস ও মানচিত্র\n\n This is the best app for all who search about 64 districts and its history in play store. Yes, you are right place. Download and share from here \n\n Link- https://play.google.com/store/apps/details?id=com.trmlab.history_of_64_districts</string>
+
+    <string name="share1">শেয়ার দিন</string>
+
+    <string name="status_bar_notification_info_overflow">999+</string>
+
+    <string name="story1">ঢাকা বিভাগ ও ঢাকা জেলার মানচিত্র</string>
+
+    <string name="story10">রাজবাড়ী জেলার মানচিত্র</string>
+
+    <string name="story11">মাদারীপুর জেলার মানচিত্র</string>
+
+    <string name="story12">গোপালগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story13">ফরিদপুর জেলার মানচিত্র</string>
+
+    <string name="story14">চট্টগ্রাম বিভাগ ও চট্টগ্রাম জেলার মানচিত্র</string>
+
+    <string name="story15">কুমিল্লা জেলার মানচিত্র</string>
+
+    <string name="story16">ব্রাহ্মণবাড়িয়া জেলার মানচিত্র</string>
+
+    <string name="story17">রাঙ্গামাটি জেলার মানচিত্র</string>
+
+    <string name="story18">নোয়াখালী জেলার মানচিত্র</string>
+
+    <string name="story19">চাঁদপুর জেলার মানচিত্র</string>
+
+    <string name="story2">নরসিংদী জেলার মানচিত্র</string>
+
+    <string name="story20">লক্ষ্মীপুর জেলার মানচিত্র</string>
+
+    <string name="story21">কক্সবাজার জেলার মানচিত্র</string>
+
+    <string name="story22">খাগড়াছড়ি জেলার মানচিত্র</string>
+
+    <string name="story23">বান্দরবান জেলার মানচিত্র</string>
+
+    <string name="story24">রাজশাহী বিভাগ ও রাজশাহী জেলার মানচিত্র</string>
+
+    <string name="story25">সিরাজগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story26">জয়পুরহাট জেলার মানচিত্র</string>
+
+    <string name="story27">চাঁপাইনবাবগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story28">পাবনা জেলার মানচিত্র</string>
+
+    <string name="story29">বগুড়া জেলার মানচিত্র</string>
+
+    <string name="story3">গাজীপুর জেলার মানচিত্র</string>
+
+    <string name="story30">নাটোর জেলার মানচিত্র</string>
+
+    <string name="story31">নওগাঁ জেলার মানচিত্র</string>
+
+    <string name="story32">খুলনা বিভাগ ও খুলনা জেলার মানচিত্র</string>
+
+    <string name="story33">যশোর জেলার মানচিত্র</string>
+
+    <string name="story34">সাতক্ষীরা জেলার মানচিত্র</string>
+
+    <string name="story35">মেহেরপুর জেলার মানচিত্র</string>
+
+    <string name="story36">নড়াইল জেলার মানচিত্র</string>
+
+    <string name="story37">চুয়াডাঙ্গা জেলার মানচিত্র</string>
+
+    <string name="story38">কুষ্টিয়া জেলার মানচিত্র</string>
+
+    <string name="story39">মাগুরা জেলার মানচিত্র</string>
+
+    <string name="story4">শরীয়তপুর জেলার মানচিত্র</string>
+
+    <string name="story40">বাগেরহাট জেলার মানচিত্র</string>
+
+    <string name="story41">ঝিনাইদহ জেলার মানচিত্র</string>
+
+    <string name="story42">বরিশাল বিভাগ ও বরিশাল জেলার মানচিত্র</string>
+
+    <string name="story43">ঝালকাঠি জেলার মানচিত্র</string>
+
+    <string name="story44">পটুয়াখালী জেলার মানচিত্র</string>
+
+    <string name="story45">পিরোজপুর জেলার মানচিত্র</string>
+
+    <string name="story46">ভোলা জেলার মানচিত্র</string>
+
+    <string name="story47">বরগুনা জেলার মানচিত্র</string>
+
+    <string name="story48">সিলেট বিভাগ ও সিলেট জেলার মানচিত্র</string>
+
+    <string name="story49">মৌলভীবাজার জেলার মানচিত্র</string>
+
+    <string name="story5">নারায়ণগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story50">হবিগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story51">সুনামগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story52">রংপুর বিভাগ ও রংপুর জেলার মানচিত্র</string>
+
+    <string name="story53">পঞ্চগড় জেলার মানচিত্র</string>
+
+    <string name="story54">দিনাজপুর জেলার মানচিত্র</string>
+
+    <string name="story55">লালমনিরহাট জেলার মানচিত্র</string>
+
+    <string name="story56">নীলফামারী জেলার মানচিত্র</string>
+
+    <string name="story57">গাইবান্ধা জেলার মানচিত্র</string>
+
+    <string name="story58">ঠাকুরগাঁও জেলার মানচিত্র</string>
+
+    <string name="story59">কুড়িগ্রাম জেলার মানচিত্র</string>
+
+    <string name="story6">টাঙ্গাইল জেলার মানচিত্র</string>
+
+    <string name="story60">ময়মনসিংহ বিভাগ ও ময়মনসিংহ জেলার মানচিত্র</string>
+
+    <string name="story61">শেরপুর জেলার মানচিত্র</string>
+
+    <string name="story62">জামালপুর জেলার মানচিত্র</string>
+
+    <string name="story63">নেত্রকোণা জেলার মানচিত্র</string>
+
+    <string name="story64">ফেনী জেলার মানচিত্র</string>
+
+    <string name="story65">বাংলাদেশের ৬৪ জেলার নাম ও প্রতিষ্ঠা সাল</string>
+
+    <string name="story66">বাংলাদেশের ৬৪টি জেলার নাম মনে রাখার কৌশল</string>
+
+    <string name="story67">আওতাধীন বিভাগের জেলা সমুহ</string>
+
+    <string name="story68">বাংলাদেশের ৬৪ জেলার নামকরণের ইতিহাস</string>
+
+    <string name="story69">ভৌগলিক নাম</string>
+
+    <string name="story7">কিশোরগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story70">৬৪ জেলা ও উপজেলার জিও কোড</string>
+
+    <string name="story8">মানিকগঞ্জ জেলার মানচিত্র</string>
+
+    <string name="story9">মুন্সিগঞ্জ জেলার মানচিত্র</string>
+</resources>
